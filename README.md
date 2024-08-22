@@ -1,8 +1,9 @@
+##👋 Hi, I’m @OsvaldoGar22
+
 
 ![giphy](https://github.com/user-attachments/assets/98ca6702-7990-46e6-85ed-fa947ec031b3)
 
 
-- 👋 Hi, I’m @OsvaldoGar22
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 
