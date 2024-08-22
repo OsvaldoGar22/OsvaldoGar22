@@ -6,7 +6,6 @@
 ## About Me
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- ☕ I Love drinking Coffee
 - 🏫 I'm currently working on getting a Cybersecurity Degree
 
 <!---
