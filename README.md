@@ -1,4 +1,4 @@
-##👋 Hi, I’m @OsvaldoGar22
+👋 Hi, I’m Osvaldo Garcia
 
 
 ![giphy](https://github.com/user-attachments/assets/98ca6702-7990-46e6-85ed-fa947ec031b3)
